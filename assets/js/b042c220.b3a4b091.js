@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[236],{40534:e=>{e.exports=JSON.parse('{"title":"Node","description":"Node","slug":"/category/node","permalink":"/docs/category/node","navigation":{"previous":{"title":"Basic","permalink":"/docs/golang/basic"},"next":{"title":"Basic","permalink":"/docs/node/basic"}}}')}}]);

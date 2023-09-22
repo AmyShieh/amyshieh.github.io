@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[1124],{65085:s=>{s.exports=JSON.parse('{"label":"BP(Best Practice)","permalink":"/docs/tags/bp-best-practice","allTagsPath":"/docs/tags","count":1,"items":[{"id":"css/bp","title":"\u7ecf\u9a8c\u603b\u7ed3","description":"\u5c5e\u6027","permalink":"/docs/css/bp"}]}')}}]);
