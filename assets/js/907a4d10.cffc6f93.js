@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[862],{23236:s=>{s.exports=JSON.parse('{"label":"notes","permalink":"/docs-reading/tags/notes","allTagsPath":"/docs-reading/tags","count":1,"items":[{"id":"zzz-notes/index","title":"\u7d20\u6750\u5e93","description":"\u4e3b\u9898","permalink":"/docs-reading/zzz-notes/"}]}')}}]);
