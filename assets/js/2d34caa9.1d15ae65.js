@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[1030],{17369:a=>{a.exports=JSON.parse('{"tags":[{"label":"english","permalink":"/docs-language/tags/english","count":1},{"label":"language","permalink":"/docs-language/tags/language","count":1},{"label":"2024","permalink":"/docs-language/tags/2024","count":1}]}')}}]);

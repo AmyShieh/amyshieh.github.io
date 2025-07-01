@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[5151],{30350:e=>{e.exports=JSON.parse('[{"label":"BP(Best Practice)","permalink":"/docs/tags/bp-best-practice","count":1},{"label":"other(coding)","permalink":"/docs/tags/other-coding","count":1}]')}}]);

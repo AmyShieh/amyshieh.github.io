@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[8867],{32086:e=>{e.exports=JSON.parse('[{"label":"learning method","permalink":"/docs-growth/tags/learning-method","count":1}]')}}]);
