@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_docusaurus_blog=self.webpackChunkmy_docusaurus_blog||[]).push([[341],{51180:e=>{e.exports=JSON.parse('{"tag":{"label":"2026","permalink":"/docs-reading/tags/2026","allTagsPath":"/docs-reading/tags","count":1,"items":[{"id":"fiction/chore","title":"Chore","description":"2026","permalink":"/docs-reading/fiction/chore"}],"unlisted":false}}')}}]);
